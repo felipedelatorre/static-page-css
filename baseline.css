@@ -1,0 +1,23 @@
+p.static-page {
+  font-size: 1em;
+}
+
+h1.static-page {
+  font-size: 2em;
+}
+
+h2.static-page {
+  font-size: 1.5em;
+}
+
+div.main-container-static-page {
+  display: flex;
+  flex-direction: column;
+  margin: 0 10% 0 10%;
+  width: 100%;
+  border: aqua solid 1px;
+}
+
+div.half-container-static-page {
+  width: 50%;
+}
